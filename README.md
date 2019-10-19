@@ -2,7 +2,7 @@
 A Beautiful memo UI built on flutter
 
 #### Dependency required - dart-intl package 
-Formats date n time /
+Formats date n time \
 For more details - https://pub.dev/packages/intl
 ### Design
 #### Dribble 
